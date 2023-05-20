@@ -1,3 +1,3 @@
 # Algorithms
 
-Вот как-то так пока
+Some notes that arose during the trainings.
